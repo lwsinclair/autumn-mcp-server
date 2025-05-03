@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sirtenzin-autumn-mcp-server-badge.png)](https://mseep.ai/app/sirtenzin-autumn-mcp-server)
+
 # Autumn MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@SirTenzin/autumn-mcp-server)](https://smithery.ai/server/@SirTenzin/autumn-mcp-server)
